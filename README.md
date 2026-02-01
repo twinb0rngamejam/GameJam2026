@@ -19,4 +19,4 @@
 - Dean P
 
 ### Music and Audio
-- (Kendasperow)[https://open.spotify.com/artist/2iFfy0XHfgMcnafvLa7X9J?si=WeJiqoCFTHe6ETKAiOERKw]
+- [Kendasperow](https://open.spotify.com/artist/2iFfy0XHfgMcnafvLa7X9J?si=WeJiqoCFTHe6ETKAiOERKw)
